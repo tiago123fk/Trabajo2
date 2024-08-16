@@ -1,0 +1,29 @@
+{
+    "users": [
+            {
+              "id":1,
+              "username":"Sara",
+              "deck":[26,29,14,12,8] 
+            },
+            {
+              "id":2,
+              "username":"Caro",
+              "deck":[91,90,15,22,32] 
+            },
+            {
+              "id":3,
+              "username":"Leon",
+              "deck":[58,61,64,7,3] 
+            },
+            {
+              "id":4,
+              "username":"Ana",
+              "deck":[3,9,21,39,45] 
+            },
+            {
+              "id":5,
+              "username":"Tiago",
+              "deck":[26,99,777,444,111] 
+            }
+          ]
+}
